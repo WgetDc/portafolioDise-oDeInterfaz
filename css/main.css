@@ -1,0 +1,50 @@
+body{
+    background: #222831;
+}
+
+.navegacion{
+    background: #393e46;
+    width: 100%;
+    font-size: 25px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.navegacion, ul{
+    list-style: none;
+}
+
+.navegacion, li{
+    margin-top: 35px;
+    float: left;
+    margin-right: 80px;
+    color: #ffffff;
+}
+
+.navegacion, a{
+    color: #ffffff;
+    font-style: none;
+    
+}
+
+.proyectos{
+    width: 50%;
+    margin-left: 50px;
+
+}
+
+.proyectos-contenido{
+    border: solid white 3px;
+    margin-top: 120px;
+}
+
+.proyectos-contenido, img{
+    width: 100%;
+    height: auto;
+}
+
+.proyectos-contenido, h1, p, a{
+    color: #ffffff;
+}
+
+

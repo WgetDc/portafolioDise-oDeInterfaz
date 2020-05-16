@@ -1,0 +1,38 @@
+/* Este es el selector universal
+* {
+    color: red;
+}
+*/
+/* Estos son selectores de etiqueta
+div {
+    color: red;
+}
+
+span {
+    color: green;
+}
+
+p{
+    color: blue;
+}
+*/
+
+/* Estos son selectores de clase
+.rojo{
+    color:red;
+}
+
+.verde{
+    color: green;
+}
+*/
+/* Selectores Id
+#rojo{
+    color:red;
+}
+
+#verde{
+    color: green;
+}
+*/
+
